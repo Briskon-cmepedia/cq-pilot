@@ -1,0 +1,7 @@
+Terminal commands:
+
+1) Clear screen - cls
+2) Go back one folder - cd ..
+3) Git version - git --version
+4) Install git - https://git-scm.com/download/win
+
